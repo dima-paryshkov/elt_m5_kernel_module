@@ -103,3 +103,4 @@ module_init(procfile_init);
 module_exit(procfile_exit);
 
 MODULE_LICENSE("GPL");
+MODULE_AUTHOR("Dmitry Paryshkov");
